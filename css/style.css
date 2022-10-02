@@ -1,0 +1,23 @@
+header{
+ border:solid;
+ border-radius: 10px;
+   height: 100px;
+}
+h1{
+    text-align: center;
+    color: rgb(23, 29, 22);
+}
+footer{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.shadow{
+    width: 50%;
+
+    /* box-shadow:0 3px 6px 0; color: rgb(0, 0,0.16);
+    background-color:#256e37 */
+
+    
+}
